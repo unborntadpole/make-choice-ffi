@@ -1,4 +1,4 @@
-Foreign function interface for the make choices program.
+Foreign function interface for the make choices program based on https://github.com/unborntadpole/make-choice-command-line-2
 
 Input must be a pointer to an array of C style pointers to strings, a c_ulonglong type limit and a u_longlong type length of the array of strings.
 
